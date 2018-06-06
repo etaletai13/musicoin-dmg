@@ -4,7 +4,7 @@
   "license": "MIT",
   "bin": {
     "dist-mac": "bin/appdmg.js"
-  }
+  },
   "dependencies": {
     "async": "^1.4.2",
     "buffer-alloc": "^1.1.0",
